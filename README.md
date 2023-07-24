@@ -3,8 +3,8 @@
 ## Compile & Run
 
 ```
-javac battleBoatsBoard.java
-java battleBoatsBoard
+javac BattleboatsBoard.java
+java BattleboatsBoard
 ```
 
 ## Gameplay Screenshot
